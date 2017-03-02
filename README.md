@@ -1,9 +1,12 @@
 # Tutorial como programar servidor web en node js
 
-## Installation
+## Instalacion
 
-Copiar el archivo index.html y servidor.js en una carpeta y ejecutar node servidor.js para arrancar el servidor web
+Copiar el archivo index.html y servidor.js en una carpeta y ejecutar node servidor.js para arrancar el servidor web.
 
-Requiere las librerias httdispacher, http y fs que hay que instalar con npm. Por ejemplo npm install httpdispatcher.
+Requiere las librerias httdispacher y fs. Hay que instalar con npm. 
+Por ejemplo:
+npm install httpdispatcher
+npm install fs
 
 
