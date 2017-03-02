@@ -1,5 +1,6 @@
 var http = require('http');
-var enrutador = require('httpdispatcher');
+var HttpDispatcher = require('httpdispatcher');
+var enrutador = new HttpDispatcher();
 var fs = require('fs');
 
 //maneja una petición
